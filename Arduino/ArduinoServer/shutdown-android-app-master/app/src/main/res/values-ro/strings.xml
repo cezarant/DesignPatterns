@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Oprire</string>
+    <string name="really_shutdown">Oprire?</string>
+    <string name="yes">Da</string>
+    <string name="no">Nu</string>
+    <string name="ok">OK</string>
+    <string name="what">Ce?</string>
+</resources>

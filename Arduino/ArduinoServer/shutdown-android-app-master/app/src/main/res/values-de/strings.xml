@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ausschalten</string>
+    <string name="really_shutdown">Ausschalten?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="ok">OK</string>
+    <string name="not_rooted">Dein Smartphone muss gerooted sein und diese App muss ein Superuser Kommando ausführen dürfen.</string>
+    <string name="what">Was?</string>
+</resources>

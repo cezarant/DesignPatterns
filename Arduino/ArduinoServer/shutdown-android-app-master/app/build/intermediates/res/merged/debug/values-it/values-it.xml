@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/GitHub/Arduino/ArduinoServer/shutdown-android-app-master/app/src/main/res/values-it/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Shutdown</string>
+    <string name="no">No</string>
+    <string name="not_rooted">Il tuo telefono necessita dei permessi di root e questa applicazione richiede lautorizzazione per lanciare un comando come amministratore.</string>
+    <string name="ok">OK</string>
+    <string name="really_shutdown">Spegnere?</string>
+    <string name="what">Cosa?</string>
+    <string name="yes">Sì</string>
+</resources>
