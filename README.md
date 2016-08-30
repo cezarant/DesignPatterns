@@ -6,5 +6,5 @@ na época: <b>Java para Android</b>.<br>
 
 ![alt text](https://images-na.ssl-images-amazon.com/images/I/61APhXCksuL._SX258_BO1,204,203,200_.jpg "Head First")
 
-Todos os resultados dessa minha empreitada estão nesta página: 
+Todos os resultados dessa minha empreitada estão nesta: 
 [página](https://cezarantsouza.wordpress.com/category/padrao-de-projetos/)
